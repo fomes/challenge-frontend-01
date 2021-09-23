@@ -36,3 +36,38 @@
     transform: rotate(360deg);
   }
 }
+
+img {
+  width: 200px;
+  height: 150px;
+}
+
+.my-header {
+  background-color: #282c34;
+  color: white;
+}
+
+.table-users {
+  width: 500px;
+  margin: 10px;
+}
+
+.table-units {
+  width: 400px;
+  margin: 10px;
+}
+
+.table-comp {
+  width: 300px;
+  margin: 10px;
+}
+
+.table-assets {
+  width: 1000px;
+  margin: 10px;
+}
+
+.my-container {
+  display: flex;
+  flex-direction: row;
+}
